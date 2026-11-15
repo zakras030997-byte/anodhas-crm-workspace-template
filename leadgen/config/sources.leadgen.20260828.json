@@ -1,0 +1,30 @@
+[
+  {
+    "handle": "@FreeFounders",
+    "title": "Поиск исполнителей ClubFounders",
+    "reason": "прямые запросы бизнеса на AI-агентов, CRM-интеграции и Telegram-ботов",
+    "enabled": false,
+    "tags": ["business", "ai", "telegram", "development", "russian"]
+  },
+  {
+    "handle": "@job_for_bots",
+    "title": "Вакансии для разработчиков ботов",
+    "reason": "специализированные заказы на Telegram-ботов и Mini Apps",
+    "enabled": false,
+    "tags": ["telegram", "bots", "mini-apps", "development", "russian"]
+  },
+  {
+    "handle": "@zerocode_jobs",
+    "title": "Зерокодер: вакансии и заказы",
+    "reason": "заказы на no-code, AI-автоматизации, интеграции и ботов",
+    "enabled": false,
+    "tags": ["nocode", "ai", "automation", "telegram", "russian"]
+  },
+  {
+    "handle": "@tgram_jobs",
+    "title": "Telegram Jobs",
+    "reason": "заказы на Telegram-ботов, платежи, админ-панели и интеграции",
+    "enabled": false,
+    "tags": ["telegram", "bots", "development", "russian"]
+  }
+]
